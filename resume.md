@@ -22,7 +22,6 @@ Lead developer, architect, manager and mentor focused on creating quality applic
 
 ###Senior Engineering Manager/Lead Engineer###
 *Jive Software | Boulder, CO*
-
 *2010 - Present*
 
 - Sucessfully transitioned Filtrbox product into profitable application offering at Jive 
@@ -32,7 +31,6 @@ Lead developer, architect, manager and mentor focused on creating quality applic
 
 ###Senior Software Engineer###
 *Filtrbox | Boulder, CO*
-
 *2008 - 2010*
 
 - Led design and development of customer facing application
@@ -43,9 +41,7 @@ Lead developer, architect, manager and mentor focused on creating quality applic
 
 ###Senior Software Engineer & Agile Coach###
 *Asynchrony Solutions | St. Louis, MO & Westminster, CO*
-
 *2006 - 2008*
-
 
 - Coached clients and internal teams in agile development methods
 - Taught courses on: 
@@ -60,17 +56,14 @@ Lead developer, architect, manager and mentor focused on creating quality applic
 
 ###Lead Developer and Architect###
 *Sonic Corporation | Oklahoma City, OK*
-
 *2005-2006*
 
 - Mentored existing development staff in Agile development practices- Architected/Led Development of Sonic’s franchisee software products using Spring/Ajax/Flex/Hibernate/iBATIS/CAS- Designed real time sales data reporting and employee forecasting system- Assisted the migration to a Service Oriented Architecture
 
 ###Senior Software Consultant###
 *Daugherty Business Solutions | Saint Louis, MO*
-
-*2005*￼￼• Promoted after 5 months• Designed/Developed services for managing financial data using Spring/iBATIS
-###Business Analyst/Programmer II###*United States Postal Service | Saint Louis, MO*
-*2003-2005*• Promoted after 7 months to lead developer• Led development of Java EE applications for Air Mail • Co-Lead of the USPS Standardization Committee****
+*2005*- Promoted after 5 months- Designed/Developed services for managing financial data using Spring/iBATIS
+###Business Analyst/Programmer II###*United States Postal Service | Saint Louis, MO**2003-2005*- Promoted after 7 months to lead developer- Led development of Java EE applications for Air Mail • Co-Lead of the USPS Standardization Committee****
 
 ##Education#####B.A. Computer Science###*University of Missouri | Columbia, MO*- Minor in History
 - Won best senior thesis project award
